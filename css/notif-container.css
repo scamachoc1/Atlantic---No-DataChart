@@ -1,0 +1,17 @@
+
+.notif-container{
+    margin: 5px;
+
+    margin-top: 46px;
+    margin-bottom: 29px;
+
+    background: #EB1B2321;
+    border-radius: 5px;
+
+    padding-top: 13px;
+    padding-bottom: 13px;
+    padding-left: 17px;
+}
+.container-link{
+    text-decoration: none;
+}

@@ -1,0 +1,48 @@
+
+.chart-container{
+    border: 1px solid black;
+    margin: 5px;
+    padding: 5px;
+    grid-area: chart;
+
+    min-height: 500px;
+
+}
+.chart-text{
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid black;
+}
+.chart-container .data-chart_header{
+    
+    display: flex;
+    flex-direction: row;
+
+}
+.chart_left-container{
+    display: flex;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.all-shipments{
+    margin-right: 15px;
+    margin-top: 10px ;
+    margin-bottom: 10px ;
+    margin-left: 10px;
+}
+.all-shipments_button{
+    margin: 100px;
+}
+
+.last-30-days{
+    margin: 10px 10px 10px 15px;
+}
+
+.chart-table{
+    display: block;
+    margin: 5px;
+    height: 600px;
+    border: 1px solid black;
+}

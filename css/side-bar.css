@@ -1,0 +1,37 @@
+.side-bar{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    margin-bottom: 0.01%;
+}
+
+.nav-bar_main-img{
+    padding: 3px;
+    width: fit-content;
+    height: fit-content;
+
+    border: 1px solid black ;
+    margin: 5px;
+
+    justify-content: left;
+    align-items: left;
+}
+
+.nav-bar_items{
+    display: block;
+    height: max-content;
+    border: 1px solid black;
+    margin: 5px;
+    justify-content: flex-end;
+    justify-content: right;
+    align-items: right;
+}
+.nav-bar_item-1,
+.nav-bar_item-2,
+.nav-bar_item-3,
+.nav-bar_item-4,
+.nav-bar_item-5{
+    margin: 15%;
+    border: 1px solid black;
+    text-align: center;
+}
